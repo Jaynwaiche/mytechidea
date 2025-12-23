@@ -215,3 +215,8 @@ footer {
     gap: 1rem;
   }
 }
+.site-main {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
